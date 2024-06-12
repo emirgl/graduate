@@ -7,10 +7,11 @@ npx hardhat compile
 npx hardhat ignition deploy ./ignition/modules/SupplyChain.js --network fantomtest
 
 Backend
+---
 yarn
 node main.js
----
 
 Frontend
 yarn
 yarn start
+---
