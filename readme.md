@@ -12,6 +12,7 @@ yarn
 node main.js
 
 Frontend
+---
 yarn
 yarn start
 ---
